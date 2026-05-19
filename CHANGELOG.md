@@ -1,5 +1,11 @@
 # @uswds/elements
 
+## 1.0.0-alpha.7
+
+### Minor Changes
+
+- a2f2fa5: Add usa-alert component with support for info, warning, error, success, and emergency statuses. Includes slim, no-icon, and closeable variants.
+
 ## 1.0.0-alpha.6
 
 ### Patch Changes

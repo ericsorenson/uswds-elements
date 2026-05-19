@@ -5,6 +5,7 @@
     "@uswds/elements": "1.0.0-alpha.2"
   },
   "changesets": [
+    "add-usa-alert-component",
     "good-needles-fix",
     "petite-dodos-call",
     "short-oranges-rescue",
